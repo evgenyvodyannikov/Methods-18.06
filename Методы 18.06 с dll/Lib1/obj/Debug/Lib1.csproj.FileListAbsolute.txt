@@ -1,0 +1,5 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Methods-18.06\Методы 18.06 с dll\Lib1\bin\Debug\Lib1.dll
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Methods-18.06\Методы 18.06 с dll\Lib1\bin\Debug\Lib1.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Methods-18.06\Методы 18.06 с dll\Lib1\obj\Debug\Lib1.csproj.CoreCompileInputs.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Methods-18.06\Методы 18.06 с dll\Lib1\obj\Debug\Lib1.dll
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Methods-18.06\Методы 18.06 с dll\Lib1\obj\Debug\Lib1.pdb
