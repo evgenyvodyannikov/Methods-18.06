@@ -1,0 +1,10 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Methods-18.06\Методы 18.06\Методы 18.06\bin\Debug\Методы 18.06.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Methods-18.06\Методы 18.06\Методы 18.06\bin\Debug\Методы 18.06.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Methods-18.06\Методы 18.06\Методы 18.06\bin\Debug\Методы 18.06.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Methods-18.06\Методы 18.06\Методы 18.06\obj\Debug\Методы 18.06.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Methods-18.06\Методы 18.06\Методы 18.06\obj\Debug\Методы_18._06.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Methods-18.06\Методы 18.06\Методы 18.06\obj\Debug\Методы_18._06.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Methods-18.06\Методы 18.06\Методы 18.06\obj\Debug\Методы 18.06.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Methods-18.06\Методы 18.06\Методы 18.06\obj\Debug\Методы 18.06.csproj.CoreCompileInputs.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Methods-18.06\Методы 18.06\Методы 18.06\obj\Debug\Методы 18.06.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Methods-18.06\Методы 18.06\Методы 18.06\obj\Debug\Методы 18.06.pdb
